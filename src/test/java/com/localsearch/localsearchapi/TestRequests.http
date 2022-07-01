@@ -1,0 +1,2 @@
+GET http://localhost:8080/v1/places/ohGSnJtMIC5nPfYRi_HTAg
+Content-Type: application/json

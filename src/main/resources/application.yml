@@ -1,0 +1,3 @@
+places:
+  host: https://storage.googleapis.com
+  coding-session-path: /coding-session-rest-api/{place_id}
